@@ -1,0 +1,383 @@
+body{
+    margin:0px;
+    padding:0PX;
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+    
+    #mainbar{
+    position:fixed;
+    background-color:black;
+    top: 0px;
+    height:110px;
+    width:100%;
+    z-index: 1;
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    #cwaveimg{  
+    position:absolute;
+    top:9px;
+    left:100px;
+    height:93px;
+    width:192px;
+    }
+    
+    #calling{
+    position:absolute;
+    display: inline-block;
+    top:33px;
+    left:1132px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 360px;
+    font-size: 30px;
+    }
+    
+    #mobilenumber{
+    position:absolute;
+    top:8px;
+    left:1171px;
+    color:white;
+    }
+    
+    #citydiv{
+    position:relative;
+    top: 90px;
+    height:515px;
+    width:100%;
+    }
+    
+    #cityimg{
+    position:absolute;
+    top: 0px;
+    height:515px;
+    width:100%;
+    }
+    
+    #ragistrationform{
+    position:absolute;
+    top:39px;
+    left:1000px;
+    background-color:#e8edf0;
+    height:450px;
+    width:320px;
+    }
+    
+    #div2{
+    border:2px;
+    height:400px;
+    width:360px;
+    background-color:white;
+    position:absolute;
+    top:25px;
+    left:1075px;
+    margin:5px 5px 35px 55px;
+    }
+
+    #get{
+    display:inline-block;
+    margin:25px 7px 15px 40px;
+    color:#ff007f;
+    }
+
+    .c{
+    display:block;
+    width:262px;
+    margin:30px 15px 15px 45px;
+    padding:5px;
+    border:0px;
+    background-color:#ede9e9;
+    border-radius:8px;
+    }
+    
+    #tellus{
+    height:45px;
+    }
+    
+    #a2{
+    border:2px solid black;
+    text-align:center;
+    margin:3px;
+    margin-left:44px;
+    padding:2px;
+    background-color:#ff007f;
+    color:white;
+    display:inline-block;
+    height:35px;
+    width:267px;
+    border-radius:8px;
+    text-decoration:none;
+    font-size:26px;
+    }
+    
+    #heading{
+    position:absolute;
+    top:-22px;
+    left:545px;
+    font-size:50px;
+    color:white;
+    }
+    
+    #internet{
+    position:absolute;
+    top:48px;
+    left:598px;
+    font-size:24px;
+    color:#ff007f;
+    }
+    
+    #best{
+    position:absolute;
+    top:113px;
+    left:120px;
+    font-size:28px;
+    color:white;
+    }
+    
+    #unlimeted{
+    position:absolute;
+    top:167px;
+    left:120px;
+    font-size:30px;
+    color:white;
+    }
+    
+    #thirty{
+    position:absolute;
+    top:167px;
+    left:359px;
+    font-size:30px;
+    color:white;
+    }
+    
+    #per{
+    position:absolute;
+    top:221px;
+    left:120px;
+    font-size:30px;
+    color:white;
+    }
+    
+    #atrs{
+    position:absolute;
+    top:221px;
+    left:359px;
+    font-size:30px;
+    color:white;
+    }
+    
+    #secondpage{
+    position:relative;
+    top:88px;
+    background-color:#f6eded;
+    height:1700px;
+    width:100%;
+    }
+    
+    #smartplan{
+    position:absolute;
+    top:5px;
+    left:635px;
+    font-size:45px;
+    }
+    
+    #forhome{
+    position:absolute;
+    top:115px;
+    left:270px;
+    height:225px;
+    width:225px;
+    background-color:white;
+    border:2px solid white;
+    border-bottom-color:red;
+    border-bottom-width:4px;
+    }
+    
+    #internetforhome{
+    position:absolute;
+    top:25px;
+    left:25px;
+    font-size:23px;
+    }
+    
+    #materialicons1{
+    position:absolute;
+    top:102px;
+    left:78px;
+    font-size:61px;
+    }
+
+    #materialicons2{
+    position:absolute;
+    top:102px;
+    left:78px;
+    font-size:61px;
+    }
+
+    #materialicons3{
+    position:absolute;
+    top:102px;
+    left:78px;
+    font-size:61px;
+    }
+    
+    #unlimitedbusiness{
+    position:absolute;
+    top:115px;
+    left:635px;
+    height:225px;
+    width:225px;
+    background-color:white;
+    border:2px solid white;
+    border-bottom-color:#2000ff;
+    border-bottom-width:4px;
+    }
+    
+    #unlimitedbusiness2{
+    position:absolute;
+    top:25px;
+    left:25px;
+    font-size:23px;
+    }
+    
+    #Smarttechnology{
+    position:absolute;
+    top:115px;
+    left:1000px;
+    height:225px;
+    width:225px;
+    background-color:white;
+    border:2px solid white;
+    border-bottom-color:red;
+    border-bottom-width:4px;
+    }
+    
+    #Smarttechnology2{
+    position:absolute;
+    top:25px;
+    left:25px;
+    font-size:23px;
+    }
+    
+    #fastinternet{
+    position:absolute;
+    top:400px;
+    left:350px;
+    height:85px;
+    width:700px;
+    }
+    
+    #a3{
+    text-align:center;
+    margin:3px;
+    margin-left:74px;
+    padding:16px 2px 2px 2px;
+    background-color:#ff007f;
+    color:white;
+    display:inline-block;
+    height:41px;
+    left:250px;
+    width:650px;
+    border-radius:45px;
+    text-decoration:none;
+    font-size:26px;
+    }
+    
+    #fasterinstallation{
+    position:absolute;
+    top:500px;
+    left:270px;
+    }
+
+    .colorred{
+    color:red;
+    }
+    
+    #PlansHouseholds{
+    position:absolute;
+    top:650px;
+    left:600px;
+    font-size:45px;
+    }
+    
+    #tablediv{
+    height:400px;
+    width:700px;
+    position:absolute;
+    top:793px;
+    left:420px;
+    }
+    
+    table{
+    height:500px;
+    width:700px;
+    }
+    
+    td{
+    border:1px solid #ff007f;
+    margin:2px 2px 2px 2px;
+    padding:12px 12px 12px 12px;
+    background-color:#eaeaf3;
+    font-size:24px;
+    }
+    
+    #trcolorred{
+    background-color:#ff007f;
+    }
+    
+    .colorwhite{
+    height:55px;
+    color:white;
+    font-size:25px;
+    }
+    
+    .colorwhite:hover {
+    background-color:red;
+    }
+    
+    .redcolormbps{
+    color:#ff007f;
+    }
+    
+    #lastdiv{
+    position:absolute;
+    top:1350px;
+    height:380px;
+    width:100%;
+    background-color:rgba(0,32,62,72);
+    }
+    
+    #inertdiv{
+    position:absolute;
+    top:87px;
+    left:245px;
+    height:207px;
+    width:1024px;
+    background-color:black;
+    border:1px solid white;
+    }
+    
+    #nocontracts{
+    left:56px;
+    }
+    
+    #nocontracts1{
+    left:375px;
+    }
+    
+    #nocontracts2{
+    left:739px;
+    }
+    
+    .lastclass{
+    top:40px;
+    position:absolute;
+    color:white;
+    font-size:24px;
+    }
+    
+    .lastredcolor{
+    color:#ff007f;
+    }
